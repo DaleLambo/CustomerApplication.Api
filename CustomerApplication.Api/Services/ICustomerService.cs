@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace CustomerApplication.Api.Services
 {
+    // Generic types to maximize code reuse, type safety, and performance.
     public interface ICustomerService<TEntity, U> where TEntity : class
     {
         IEnumerable<TEntity> GetAll();
