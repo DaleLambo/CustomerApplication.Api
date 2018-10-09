@@ -1,6 +1,5 @@
 # CustomerApplication.Api
-Example ASP.NET CORE 2.1 WebAPI project that can be used for making web requests and from the front end. This project contains Unit tests, Restful API and Web Application. The solution should be setup to run 
-(Multiple Startup Projects) both the WebApi and UI when building.
+Example ASP.NET CORE 2.1 WebAPI project that can be used for making web requests and from the front end. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CustomerApplication.API Notes:
 
